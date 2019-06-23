@@ -1,0 +1,21 @@
+#container
+{	
+	margin: 0 auto;
+	width: 400px;
+	height: auto;
+}
+
+table
+{
+	margin: 80px auto;
+	border: 10px solid #333;
+	border-collapse: collapse;
+}
+
+td
+{
+	width: 70px;
+	height: 70px;
+	border: 2px solid #000;
+	background: white;
+}
